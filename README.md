@@ -1,16 +1,13 @@
-<!-- DYNAMIC BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=3F51B5&width=600&lines=ML+Archmage+Unleashed!+⚡;Building+Intelligent+Systems+From+Curiosity+🧪" alt="Typing SVG Banner"/>
-</p>
 
-# 🧙‍♂️ ML Archmage | AI Engineer | Data Sorcerer
+
+# ML Archmage | AI Engineer | Data Sorcerer
 
 Welcome to my digital lab, where algorithms cast spells and data transmutes into insight.  
 This README is my dashboard, portfolio, and interactive quest log — powered by curiosity, experimentation, and a bit of overfitting.
 
 ---
 
-## 🎲 Weekly Activity Dashboard
+## Weekly Activity Dashboard
 ```yaml
 Model Training Hours      ███████████░░░░░░░ 60%
 Research Paper Reading    ██████████████░░░░ 80%
@@ -22,7 +19,7 @@ Community Contributions   ██████░░░░░░░░░░░░
 
 ---
 
-## 📈 Recent Model Performance
+## Recent Model Performance
 
 ### 🧠 Recommender System v2
 ```
@@ -33,7 +30,7 @@ Data Size:       1.2M users
 Training Epochs: 25
 ```
 
-### 📝 NLP Summarizer (Transformer-based)
+### NLP Summarizer (Transformer-based)
 ```
 ROUGE-L:         0.74      ✨
 BLEU Score:      0.68      🗣️
@@ -42,7 +39,7 @@ Tokens Trained:  18M
 Framework:       Hugging Face Transformers
 ```
 
-### 🎨 GAN Art Generator
+### GAN Art Generator
 ```
 FID Score:       16.4      🖼️
 Epochs:          80
@@ -53,7 +50,7 @@ Loss Stability:  High        🦾
 
 ---
 
-## 🏅 Gamified Profile & Achievements
+## Gamified Profile & Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hammadurrehaman&theme=algolia&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
@@ -62,7 +59,7 @@ Loss Stability:  High        🦾
 ```
 Role:         ML Archmage
 Level:        21
-XP:           21,420 / 25,000   (🔜 Level Up!)
+XP:           21,420 / 25,000   
 Alignment:    Lawful-Analytical
 Guilds:       Open Source, Applied AI, Research Dungeons
 
@@ -84,7 +81,7 @@ Active Quest:
 
 ---
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -100,36 +97,36 @@ Active Quest:
 
 ---
 
-## 🧪 Current Research & Interests
+## Current Research & Interests
 
-- 🪄 Foundation Model Fine-tuning (LoRA / QLoRA / PEFT)
-- 🌈 Multi-modal ML (Text + Vision)
-- 🔍 Explainable AI (XAI), Causal Inference
-- ⚡ Low-latency inference for edge deployment
-- 🚀 Zero-shot / Few-shot Learning
-- 🤖 Prompt Engineering & Agents
-
----
-
-## 📜 Dev Log / Changelog
-
-```
-[Jul 2025] 🏥 Building a distilled BERT for biomedical QA
-[Jun 2025] 🧊 Published contrastive learning article for low-resource settings
-[May 2025] 🎨 Open-sourced GAN training debugger
-[Apr 2025] 📢 Gave a talk on scaling Transformers with JAX at MLOps Summit
-```
+-  Foundation Model Fine-tuning (LoRA / QLoRA / PEFT)
+-  Multi-modal ML (Text + Vision)
+-  Explainable AI (XAI), Causal Inference
+-  Low-latency inference for edge deployment
+-  Zero-shot / Few-shot Learning
+-  Prompt Engineering & Agents
 
 ---
 
-## 🧩 Random ML Thought of the Week
+## Dev Log / Changelog
+
+```
+[Jul 2025]  Building a distilled BERT for biomedical QA
+[Jun 2025]  Published contrastive learning article for low-resource settings
+[May 2025]  Open-sourced GAN training debugger
+[Apr 2025]  Gave a talk on scaling Transformers with JAX at MLOps Summit
+```
+
+---
+
+##  Random ML Thought of the Week
 
 > "A model can only learn what you're willing to teach through data."  
 > _— If you don't ask, it can't answer._
 
 ---
 
-## 💬 Connect & Collaborate
+## Connect & Collaborate
 
 If you're working on frontier AI, multi-agent systems, or want to pair on ML research projects — reach out!  
 Open to collaborations, open-source contributions, and moonshot ideas.
