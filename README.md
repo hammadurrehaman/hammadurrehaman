@@ -1,6 +1,6 @@
 
 
-# ML Archmage | AI Engineer | Data Sorcerer
+Junior AI Engineer 
 
 Welcome to my digital lab, where algorithms cast spells and data transmutes into insight.  
 This README is my dashboard, portfolio, and interactive quest log — powered by curiosity, experimentation, and a bit of overfitting.
