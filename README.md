@@ -90,5 +90,5 @@ I have experience across the full development cycle, from data preprocessing and
 ###  Building practical, scalable AI solutions
 
 **Open for collaboration on AI projects and innovative ideas**
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
