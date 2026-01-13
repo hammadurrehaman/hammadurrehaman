@@ -75,6 +75,6 @@ Feel free to explore my repositories and connect with me.
 
 ## GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hamad-ur-rehman89&show_icons=true)
-![Streak](https://streak-stats.demolab.com?user=hamad-ur-rehman89)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamad-ur-rehman89)
+![Stats](https://github-readme-stats.vercel.app/api?username=hammadurrehaman&show_icons=true)
+![Streak](https://streak-stats.demolab.com?user=hammadurrehaman)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=hammadurrehaman)
