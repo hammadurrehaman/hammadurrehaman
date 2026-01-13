@@ -1,79 +1,77 @@
-# Hammad ur Rehman  
-Artificial Intelligence Engineer | Islamabad, Pakistan  
+<div align="center">
 
-Email: hamadurrehman98@gmail.com  
-LinkedIn: https://linkedin.com/in/hamad-ur-rehman89  
+# 👋 Hey, I'm Hammad ur Rehman
 
----
+### AI Engineer | Building Intelligent Systems
 
-## About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Engineer;NLP+%26+Automation+Specialist;Full+Stack+Developer;E-commerce+Entrepreneur" alt="Typing SVG" />
 
-I am a AI Engineer at AIV Studios with a strong background in Artificial Intelligence, Machine Learning, and Natural Language Processing. I specialize in building intelligent systems, automation tools, and AI-powered assistants with both offline and cloud-based capabilities.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamad-ur-rehman89)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamadurrehman98@gmail.com)
+[![Location](https://img.shields.io/badge/Islamabad-Pakistan-green?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
-I have experience across the full development cycle, from data preprocessing and model training to deployment and integration in web and mobile applications. Alongside my technical work, I also run an e-commerce startup, Rangezeenat.com, which gives me practical business and product experience.
-
----
-
-## Core Skills
-
-- Artificial Intelligence and Machine Learning  
-- Natural Language Processing  
-- Python Development  
-- Data Analysis and Visualization  
-- AI Automation and Intelligent Systems  
-- Web and Mobile Application Development  
-- Database Design and Management  
-- Model Evaluation and Performance Optimization  
-- Research, Benchmarking, and Technical Documentation  
+</div>
 
 ---
 
-## Certifications
+## 🚀 About Me
 
-- Deep Learning Prerequisites: The NumPy Stack in Python – DeepLearningCourses (2025)  
-- Python (Basic) – HackerRank (2025)  
-- Artificial Intelligence for Beginners – Simplilearn (2024)  
-- Multiple courses in Machine Learning, NLP, and AI-based systems  
+AI Engineer at **AIV Studios** passionate about building intelligent systems that solve real-world problems. I specialize in creating AI-powered assistants, automation tools, and machine learning models—from concept to deployment.
 
----
-
-## Key Projects
-
-### AI Assistant with Offline Capabilities  
-- Built an AI-powered assistant with speech recognition, NLP, and task automation  
-- Supports offline processing and intelligent recommendations  
-- Designed for both desktop and real-world usage  
-
-### Machine Learning Models  
-- Bike Sharing Demand Prediction (Regression)  
-- Heart Disease Prediction (Classification)  
-- House Price Estimation  
-- Spam Email Detection  
-
-### Web, App, and Automation Systems  
-- Developed multiple web and mobile applications  
-- Built automation tools to optimize business and technical workflows  
-- Created NLP-based chatbots and text classifiers  
+Beyond tech, I run **Rangezeenat.com**, an e-commerce startup that keeps me grounded in practical business applications of AI.
 
 ---
 
-## Focus Areas
+## 💻 Tech Stack
 
-- AI Assistants and Automation  
-- Machine Learning Systems  
-- NLP Applications  
-- Real-World AI Deployment  
-- Business-Oriented AI Solutions  
+```python
+skills = {
+    "AI/ML": ["NLP", "Deep Learning", "Model Optimization"],
+    "Languages": ["Python", "JavaScript"],
+    "Focus": ["AI Assistants", "Automation", "Full-Stack Development"],
+    "Tools": ["NumPy Stack", "Web & Mobile Frameworks", "Cloud Deployment"]
+}
+```
 
 ---
 
-## GitHub Goals
+## 🎯 Featured Projects
 
-I use GitHub to publish AI projects, machine learning models, automation tools, and full-stack applications. My aim is to build practical, scalable, and impactful AI-driven systems.
+### 🤖 AI Assistant with Offline Capabilities
+Smart assistant with speech recognition, NLP, and task automation—works both online and offline
 
-Feel free to explore my repositories and connect with me.
+### 📊 ML Prediction Models
+- **Bike Sharing Demand** | **Heart Disease Classification** | **House Price Estimation** | **Spam Detection**
 
-## Contribution Snake
+### 🔧 Automation & Web Systems
+End-to-end applications with NLP chatbots, business automation tools, and intelligent workflows
 
-![Snake animation](https://raw.githubusercontent.com/hammadurrehaman/hammadurrehaman/output/github-contribution-grid-snake.svg)
+---
 
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadurrehaman&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+🏆 Deep Learning Prerequisites (NumPy Stack) – DeepLearningCourses  
+🏆 Python (Basic) – HackerRank  
+🏆 Artificial Intelligence for Beginners – Simplilearn
+
+---
+
+<div align="center">
+
+### 💡 Building practical, scalable AI solutions
+
+**Open for collaboration on AI projects and innovative ideas**
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
