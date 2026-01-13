@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Hammad ur Rehman
+# Hey, I'm Hammad ur Rehman
 
 ### AI Engineer | Building Intelligent Systems
 
@@ -14,61 +14,80 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-AI Engineer at **AIV Studios** passionate about building intelligent systems that solve real-world problems. I specialize in creating AI-powered assistants, automation tools, and machine learning models—from concept to deployment.
+I am a AI Engineer at AIV Studios with a strong background in Artificial Intelligence, Machine Learning, and Natural Language Processing. I specialize in building intelligent systems, automation tools, and AI-powered assistants with both offline and cloud-based capabilities.
 
-Beyond tech, I run **Rangezeenat.com**, an e-commerce startup that keeps me grounded in practical business applications of AI.
-
----
-
-## 💻 Tech Stack
-
-```python
-skills = {
-    "AI/ML": ["NLP", "Deep Learning", "Model Optimization"],
-    "Languages": ["Python", "JavaScript"],
-    "Focus": ["AI Assistants", "Automation", "Full-Stack Development"],
-    "Tools": ["NumPy Stack", "Web & Mobile Frameworks", "Cloud Deployment"]
-}
-```
+I have experience across the full development cycle, from data preprocessing and model training to deployment and integration in web and mobile applications. Alongside my technical work, I also run an e-commerce startup, Rangezeenat.com, which gives me practical business and product experience.
 
 ---
 
-## 🎯 Featured Projects
+## Core Skills
 
-### 🤖 AI Assistant with Offline Capabilities
-Smart assistant with speech recognition, NLP, and task automation—works both online and offline
-
-### 📊 ML Prediction Models
-- **Bike Sharing Demand** | **Heart Disease Classification** | **House Price Estimation** | **Spam Detection**
-
-### 🔧 Automation & Web Systems
-End-to-end applications with NLP chatbots, business automation tools, and intelligent workflows
+- Artificial Intelligence and Machine Learning  
+- Natural Language Processing  
+- Python Development  
+- Data Analysis and Visualization  
+- AI Automation and Intelligent Systems  
+- Web and Mobile Application Development  
+- Database Design and Management  
+- Model Evaluation and Performance Optimization  
+- Research, Benchmarking, and Technical Documentation  
 
 ---
 
-## 📈 GitHub Activity
+## Certifications
+
+- Deep Learning Prerequisites: The NumPy Stack in Python – DeepLearningCourses (2025)  
+- Python (Basic) – HackerRank (2025)  
+- Artificial Intelligence for Beginners – Simplilearn (2024)  
+- Multiple courses in Machine Learning, NLP, and AI-based systems  
+
+---
+
+## Key Projects
+
+### AI Assistant with Offline Capabilities  
+- Built an AI-powered assistant with speech recognition, NLP, and task automation  
+- Supports offline processing and intelligent recommendations  
+- Designed for both desktop and real-world usage  
+
+### Machine Learning Models  
+- Bike Sharing Demand Prediction (Regression)  
+- Heart Disease Prediction (Classification)  
+- House Price Estimation  
+- Spam Email Detection  
+
+### Web, App, and Automation Systems  
+- Developed multiple web and mobile applications  
+- Built automation tools to optimize business and technical workflows  
+- Created NLP-based chatbots and text classifiers  
+
+---
+
+## Entrepreneurship
+
+**Founder – Rangezeenat.com** | 2025 – Present  
+
+- Launched and manage an online clothing brand  
+- Handle product management, operations, and digital sales  
+- Apply data-driven and automation-based decision making  
+
+---
+
+## Focus Areas
+
+- AI Assistants and Automation  
+- Machine Learning Systems  
+- NLP Applications  
+- Real-World AI Deployment  
+- Business-Oriented AI Solutions  
+
+---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadurrehaman&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Certifications
-
-🏆 Deep Learning Prerequisites (NumPy Stack) – DeepLearningCourses  
-🏆 Python (Basic) – HackerRank  
-🏆 Artificial Intelligence for Beginners – Simplilearn
-
----
-
-<div align="center">
-
-### 💡 Building practical, scalable AI solutions
+###  Building practical, scalable AI solutions
 
 **Open for collaboration on AI projects and innovative ideas**
 
