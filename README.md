@@ -91,6 +91,4 @@ I have experience across the full development cycle, from data preprocessing and
 
 **Open for collaboration on AI projects and innovative ideas**
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 </div>
