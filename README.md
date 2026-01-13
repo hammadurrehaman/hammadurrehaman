@@ -72,3 +72,8 @@ I have experience across the full development cycle, from data preprocessing and
 I use GitHub to publish AI projects, machine learning models, automation tools, and full-stack applications. My aim is to build practical, scalable, and impactful AI-driven systems.
 
 Feel free to explore my repositories and connect with me.
+
+## Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/hamad-ur-rehman89/hammadurrehaman/output/github-contribution-grid-snake.svg)
+
