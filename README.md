@@ -75,5 +75,5 @@ Feel free to explore my repositories and connect with me.
 
 ## Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/hamad-ur-rehman89/hammadurrehaman/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/hammadurrehaman/hammadurrehaman/output/github-contribution-grid-snake.svg)
 
