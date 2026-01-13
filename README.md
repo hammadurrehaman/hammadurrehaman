@@ -73,7 +73,8 @@ I use GitHub to publish AI projects, machine learning models, automation tools, 
 
 Feel free to explore my repositories and connect with me.
 
-## GitHub Streak
+## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hamad-ur-rehman89)](https://git.io/streak-stats)
+![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamad-ur-rehman89&show_icons=true&hide_title=true)
+
 
