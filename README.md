@@ -27,3 +27,23 @@ I have experience across the full development cycle, from data preprocessing and
 - Research, Benchmarking, and Technical Documentation  
 
 ---
+
+## Professional Experience
+
+### AI Engineer  
+**AIV Studios, Islamabad** | 2025 – Present  
+
+- Design and develop AI-powered systems with a focus on NLP and automation  
+- Build scalable solutions with offline and cloud deployment  
+- Improve model accuracy, performance, and reliability  
+- Integrate AI into real-world applications with cross-functional teams  
+- Research and benchmark modern AI tools and frameworks  
+
+### Python Developer Intern  
+**OctaNet Services Pvt Ltd.** | Oct 2024 – Mar 2025  
+
+- Built Python scripts to automate workflows and improve efficiency  
+- Developed backend modules for production systems  
+- Worked with Git, debugging, and collaborative development tools  
+
+---
