@@ -72,9 +72,3 @@ I have experience across the full development cycle, from data preprocessing and
 I use GitHub to publish AI projects, machine learning models, automation tools, and full-stack applications. My aim is to build practical, scalable, and impactful AI-driven systems.
 
 Feel free to explore my repositories and connect with me.
-
-## GitHub Activity
-
-![Stats](https://github-readme-stats.vercel.app/api?username=hammadurrehaman&show_icons=true)
-![Streak](https://streak-stats.demolab.com?user=hammadurrehaman)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=hammadurrehaman)
