@@ -1,14 +1,13 @@
 <div align="center">
 
-# Hey, I'm Hammad ur Rehman
+# Abdulrehman Ghani
 
-### AI Engineer | Building Intelligent Systems
+### Machine Learning Engineer & Computer Vision Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Engineer;NLP+%26+Automation+Specialist;Full+Stack+Developer;E-commerce+Entrepreneur" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamad-ur-rehman89)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamadurrehman98@gmail.com)
-[![Location](https://img.shields.io/badge/Islamabad-Pakistan-green?style=for-the-badge&logo=google-maps&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehman197/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gmail:abdulrehmanghani197@gmail.com)
 
 </div>
 
@@ -16,72 +15,40 @@
 
 ## About Me
 
-I am a AI Engineer at AIV Studios with a strong background in Artificial Intelligence, Machine Learning, and Natural Language Processing. I specialize in building intelligent systems, automation tools, and AI-powered assistants with both offline and cloud-based capabilities.
-
-I have experience across the full development cycle, from data preprocessing and model training to deployment and integration in web and mobile applications. Alongside my technical work, I also run an e-commerce startup, Rangezeenat.com, which gives me practical business and product experience.
+I specialize in optimizing AI models for edge deployment, computer vision applications with a focus on face recognition, and NLP for document processing.
 
 ---
 
-## Core Skills
+## Expertise
 
-- Artificial Intelligence and Machine Learning  
-- Natural Language Processing  
-- Python Development  
-- Data Analysis and Visualization  
-- AI Automation and Intelligent Systems  
-- Web and Mobile Application Development  
+- Programming & Development: Python, C/C++, JavaScript/TypeScript, SQL 
+- Computer Vision: Object Detection (YOLO, DETR, Faster R-CNN), Segmentation (HRNet, FCHarDNet, U-Net), Re-ID & Tracking, OpenCV, NVIDIA DeepStream  
+- Natural Language Processing (NLP): Transformers (BERT, GPT, LLaMA), RAG Architectures, Text Summarization & Document Automation, LangChain, Vector  
+- Generative AI & LLMs: Prompt Engineering, Fine-Tuning LLMs, Diffusion Models (Stable Diffusion), Conversational AI / Agents  
+- Edge AI & Optimization: NVIDIA Jetson, TensorRT, CUDA/GPU Optimization, Quantization & Pruning, TinyML (OpenMV, ESP32, Edge Impulse)
+- Cloud & MLOps: Azure ML, AWS SageMaker, Docker, Kubernetes, Apache Airflow, Triton Inference Server
 - Database Design and Management  
-- Model Evaluation and Performance Optimization  
-- Research, Benchmarking, and Technical Documentation  
+ 
+AI Product Development: End-to-End ML Pipelines, FastAPI / REST APIs, Experiment Tracking (Weights & Biases), Production Deployment
 
 ---
 
-## Certifications
+## Technical Skills
 
-- Deep Learning Prerequisites: The NumPy Stack in Python – DeepLearningCourses (2025)  
-- Python (Basic) – HackerRank (2025)  
-- Artificial Intelligence for Beginners – Simplilearn (2024)  
-- Multiple courses in Machine Learning, NLP, and AI-based systems  
-
----
-
-## Key Projects
-
-### AI Assistant with Offline Capabilities  
-- Built an AI-powered assistant with speech recognition, NLP, and task automation  
-- Supports offline processing and intelligent recommendations  
-- Designed for both desktop and real-world usage  
-
-### Machine Learning Models  
-- Bike Sharing Demand Prediction (Regression)  
-- Heart Disease Prediction (Classification)  
-- House Price Estimation  
-- Spam Email Detection  
-
-### Web, App, and Automation Systems  
-- Developed multiple web and mobile applications  
-- Built automation tools to optimize business and technical workflows  
-- Created NLP-based chatbots and text classifiers  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
-## Entrepreneurship
+## GitHub Stats
 
-**Founder – Rangezeenat.com** | 2025 – Present  
-
-- Launched and manage an online clothing brand  
-- Handle product management, operations, and digital sales  
-- Apply data-driven and automation-based decision making  
-
----
-
-## Focus Areas
-
-- AI Assistants and Automation  
-- Machine Learning Systems  
-- NLP Applications  
-- Real-World AI Deployment  
-- Business-Oriented AI Solutions  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdulrehmanghani&show_icons=true&theme=radical&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrehmanghani&layout=compact&theme=radical&count_weight=1&size_weight=0)
 
 ---
 
@@ -92,3 +59,4 @@ I have experience across the full development cycle, from data preprocessing and
 **Open for collaboration on AI projects and innovative ideas**
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
