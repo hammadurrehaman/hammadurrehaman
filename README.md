@@ -87,8 +87,8 @@ I have experience across the full development cycle, from data preprocessing and
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamadurrehman98&show_icons=true&theme=radical&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamadurrehman98&layout=compact&theme=radical&count_weight=1&size_weight=0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadurrehaman&show_icons=true&theme=radical&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammadurrehaman&layout=compact&theme=radical&count_weight=1&size_weight=0)
 
 ---
 
