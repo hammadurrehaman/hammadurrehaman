@@ -11,8 +11,9 @@
 
 </div>
 
----
+
 I specialize in optimizing AI models for edge deployment, computer vision applications with a focus on face recognition, and NLP for document processing.
+
 ---
 
 ## Expertise
